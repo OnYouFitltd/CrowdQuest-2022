@@ -102,6 +102,7 @@ The diagram below shows all steps to generate the expert's login data hash from 
 #### Version Control : Git
 ###### You can also see the list of dependencies in the package.json file.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🚩Installation/Environment Setup 
 
